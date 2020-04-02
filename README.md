@@ -1,2 +1,3 @@
-# covid-19-raspberry-pi-counter
-COVID-19 API based Raspberry Pi LCD Counter
+# COVID-19 Raspberry Pi LCD Counter
+
+Create account on collect api and subscribe to covid-19 api and replace your api key in script.
