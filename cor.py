@@ -8,7 +8,7 @@ conn = http.client.HTTPSConnection("api.collectapi.com")
 
 headers = {
     'content-type': "application/json",
-    'authorization': "apikey 0m5BDVJjfn7JPxMZS5azuV:7JebP4KUwsdvUCtRaqq06e"
+    'authorization': "apikey collectapi-key"
     }
 
 conn.request("GET", "/corona/totalData", headers=headers)
